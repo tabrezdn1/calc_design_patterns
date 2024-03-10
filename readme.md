@@ -7,9 +7,9 @@ This homework has three new features.
 
 1.  GitHub Actions to run your tests on GitHub automatically. It is currently set to trigger for two branches: DevOps and master.  
 
-2.  Environmnent variables and its respective test cases for the app.
+2.  Environment variables and their respective test cases for the app.
 
-3.  Logging as how the program outputs information to external systems and is important for tracking application usage, security, and development, and also added logging-related test cases.
+3.  Logging is how the program outputs information to external systems and is important for tracking application usage, security, and development, and also added logging-related test cases.
 
 ## Project Enhancements from Assignment 5
 
