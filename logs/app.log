@@ -40,3 +40,94 @@
 2024-03-10 00:15:47,737 - INFO - Executing command: menu
 2024-03-10 00:15:47,737 - INFO - Displaying main menu to user.
 2024-03-10 00:15:49,090 - INFO - User selected to exit the program.
+2024-03-10 00:36:51,707 - INFO - Logging configured.
+2024-03-10 00:36:51,707 - INFO - CommandHandler initialized.
+2024-03-10 00:36:51,711 - INFO - Found plugin: calculator
+2024-03-10 00:36:51,713 - INFO - Command 'calculator' registered.
+2024-03-10 00:36:51,713 - INFO - Registered command: calculator
+2024-03-10 00:36:51,713 - INFO - Found plugin: discord
+2024-03-10 00:36:51,713 - INFO - Command 'discord' registered.
+2024-03-10 00:36:51,713 - INFO - Registered command: discord
+2024-03-10 00:36:51,713 - INFO - Found plugin: email
+2024-03-10 00:36:51,713 - INFO - Command 'email' registered.
+2024-03-10 00:36:51,713 - INFO - Registered command: email
+2024-03-10 00:36:51,713 - INFO - Found plugin: exit
+2024-03-10 00:36:51,714 - INFO - Command 'exit' registered.
+2024-03-10 00:36:51,714 - INFO - Registered command: exit
+2024-03-10 00:36:51,714 - INFO - Found plugin: goodbye
+2024-03-10 00:36:51,714 - INFO - Command 'goodbye' registered.
+2024-03-10 00:36:51,714 - INFO - Registered command: goodbye
+2024-03-10 00:36:51,714 - INFO - Found plugin: greet
+2024-03-10 00:36:51,714 - INFO - Command 'greet' registered.
+2024-03-10 00:36:51,714 - INFO - Registered command: greet
+2024-03-10 00:36:51,714 - INFO - Found plugin: menu
+2024-03-10 00:36:51,714 - INFO - Found plugin: openai
+2024-03-10 00:36:51,715 - INFO - Command 'openai' registered.
+2024-03-10 00:36:51,715 - INFO - Registered command: openai
+2024-03-10 00:36:51,715 - INFO - Command 'menu' registered.
+2024-03-10 00:36:51,715 - INFO - Application starting...
+2024-03-10 00:36:51,715 - INFO - Listing available commands.
+2024-03-10 00:36:54,361 - ERROR - Attempted to access a command by an invalid index.
+2024-03-10 00:36:54,361 - WARNING - Invalid selection. Please enter a valid number.
+2024-03-10 00:36:56,801 - INFO - Exiting application.
+2024-03-10 00:37:10,494 - INFO - Logging configured.
+2024-03-10 00:37:10,494 - INFO - CommandHandler initialized.
+2024-03-10 00:37:10,497 - INFO - Found plugin: calculator
+2024-03-10 00:37:10,498 - INFO - Command 'calculator' registered.
+2024-03-10 00:37:10,498 - INFO - Registered command: calculator
+2024-03-10 00:37:10,498 - INFO - Found plugin: discord
+2024-03-10 00:37:10,498 - INFO - Command 'discord' registered.
+2024-03-10 00:37:10,498 - INFO - Registered command: discord
+2024-03-10 00:37:10,498 - INFO - Found plugin: email
+2024-03-10 00:37:10,498 - INFO - Command 'email' registered.
+2024-03-10 00:37:10,498 - INFO - Registered command: email
+2024-03-10 00:37:10,498 - INFO - Found plugin: exit
+2024-03-10 00:37:10,498 - INFO - Command 'exit' registered.
+2024-03-10 00:37:10,498 - INFO - Registered command: exit
+2024-03-10 00:37:10,498 - INFO - Found plugin: goodbye
+2024-03-10 00:37:10,498 - INFO - Command 'goodbye' registered.
+2024-03-10 00:37:10,498 - INFO - Registered command: goodbye
+2024-03-10 00:37:10,498 - INFO - Found plugin: greet
+2024-03-10 00:37:10,498 - INFO - Command 'greet' registered.
+2024-03-10 00:37:10,498 - INFO - Registered command: greet
+2024-03-10 00:37:10,498 - INFO - Found plugin: menu
+2024-03-10 00:37:10,498 - INFO - Found plugin: openai
+2024-03-10 00:37:10,499 - INFO - Command 'openai' registered.
+2024-03-10 00:37:10,499 - INFO - Registered command: openai
+2024-03-10 00:37:10,499 - INFO - Command 'menu' registered.
+2024-03-10 00:37:10,499 - INFO - Application starting...
+2024-03-10 00:37:10,499 - INFO - Listing available commands.
+2024-03-10 00:37:12,290 - ERROR - Only numbers are allowed, wrong input.
+2024-03-10 00:37:14,310 - INFO - Exiting application.
+2024-03-10 00:37:35,224 - INFO - Logging configured.
+2024-03-10 00:37:35,224 - INFO - CommandHandler initialized.
+2024-03-10 00:37:35,227 - INFO - Found plugin: calculator
+2024-03-10 00:37:35,228 - INFO - Command 'calculator' registered.
+2024-03-10 00:37:35,228 - INFO - Registered command: calculator
+2024-03-10 00:37:35,228 - INFO - Found plugin: discord
+2024-03-10 00:37:35,228 - INFO - Command 'discord' registered.
+2024-03-10 00:37:35,228 - INFO - Registered command: discord
+2024-03-10 00:37:35,228 - INFO - Found plugin: email
+2024-03-10 00:37:35,229 - INFO - Command 'email' registered.
+2024-03-10 00:37:35,229 - INFO - Registered command: email
+2024-03-10 00:37:35,229 - INFO - Found plugin: exit
+2024-03-10 00:37:35,229 - INFO - Command 'exit' registered.
+2024-03-10 00:37:35,229 - INFO - Registered command: exit
+2024-03-10 00:37:35,229 - INFO - Found plugin: goodbye
+2024-03-10 00:37:35,229 - INFO - Command 'goodbye' registered.
+2024-03-10 00:37:35,229 - INFO - Registered command: goodbye
+2024-03-10 00:37:35,229 - INFO - Found plugin: greet
+2024-03-10 00:37:35,229 - INFO - Command 'greet' registered.
+2024-03-10 00:37:35,229 - INFO - Registered command: greet
+2024-03-10 00:37:35,229 - INFO - Found plugin: menu
+2024-03-10 00:37:35,229 - INFO - Found plugin: openai
+2024-03-10 00:37:35,229 - INFO - Command 'openai' registered.
+2024-03-10 00:37:35,229 - INFO - Registered command: openai
+2024-03-10 00:37:35,229 - INFO - Command 'menu' registered.
+2024-03-10 00:37:35,229 - INFO - Application starting...
+2024-03-10 00:37:35,229 - INFO - Listing available commands.
+2024-03-10 00:37:36,762 - INFO - Executing command: menu
+2024-03-10 00:37:36,762 - INFO - Displaying main menu to user.
+2024-03-10 00:37:39,597 - WARNING - User made an invalid selection.
+2024-03-10 00:37:39,597 - INFO - Listing available commands.
+2024-03-10 00:37:43,159 - INFO - Exiting application.
