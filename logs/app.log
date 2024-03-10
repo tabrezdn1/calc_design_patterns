@@ -1,0 +1,42 @@
+2024-03-10 00:15:19,541 - INFO - Exiting application.
+2024-03-10 00:15:21,782 - INFO - Logging configured.
+2024-03-10 00:15:21,782 - INFO - CommandHandler initialized.
+2024-03-10 00:15:21,786 - INFO - Found plugin: calculator
+2024-03-10 00:15:21,788 - INFO - Command 'calculator' registered.
+2024-03-10 00:15:21,788 - INFO - Registered command: calculator
+2024-03-10 00:15:21,788 - INFO - Found plugin: discord
+2024-03-10 00:15:21,788 - INFO - Command 'discord' registered.
+2024-03-10 00:15:21,788 - INFO - Registered command: discord
+2024-03-10 00:15:21,788 - INFO - Found plugin: email
+2024-03-10 00:15:21,788 - INFO - Command 'email' registered.
+2024-03-10 00:15:21,788 - INFO - Registered command: email
+2024-03-10 00:15:21,788 - INFO - Found plugin: exit
+2024-03-10 00:15:21,788 - INFO - Command 'exit' registered.
+2024-03-10 00:15:21,788 - INFO - Registered command: exit
+2024-03-10 00:15:21,788 - INFO - Found plugin: goodbye
+2024-03-10 00:15:21,789 - INFO - Command 'goodbye' registered.
+2024-03-10 00:15:21,789 - INFO - Registered command: goodbye
+2024-03-10 00:15:21,789 - INFO - Found plugin: greet
+2024-03-10 00:15:21,789 - INFO - Command 'greet' registered.
+2024-03-10 00:15:21,789 - INFO - Registered command: greet
+2024-03-10 00:15:21,789 - INFO - Found plugin: menu
+2024-03-10 00:15:21,789 - INFO - Found plugin: openai
+2024-03-10 00:15:21,789 - INFO - Command 'openai' registered.
+2024-03-10 00:15:21,789 - INFO - Registered command: openai
+2024-03-10 00:15:21,789 - INFO - Command 'menu' registered.
+2024-03-10 00:15:21,789 - INFO - Application starting...
+2024-03-10 00:15:21,789 - INFO - Listing available commands.
+2024-03-10 00:15:26,378 - INFO - Executing command: calculator
+2024-03-10 00:15:36,561 - INFO - Executing calculator operation: Divide
+2024-03-10 00:15:36,561 - INFO - Executing Divide command.
+2024-03-10 00:15:38,911 - INFO - Division result: 0.5454545454545454
+2024-03-10 00:15:40,499 - INFO - User selected to go back from CalculatorCommand.
+2024-03-10 00:15:40,499 - INFO - Listing available commands.
+2024-03-10 00:15:43,400 - INFO - Executing command: openai
+2024-03-10 00:15:44,744 - INFO - Executing OpenAI operation: Chat
+2024-03-10 00:15:44,745 - INFO - Chat command executed: Engaging with AI.
+2024-03-10 00:15:46,091 - INFO - User selected to go back from OpenAICommand.
+2024-03-10 00:15:46,092 - INFO - Listing available commands.
+2024-03-10 00:15:47,737 - INFO - Executing command: menu
+2024-03-10 00:15:47,737 - INFO - Displaying main menu to user.
+2024-03-10 00:15:49,090 - INFO - User selected to exit the program.
