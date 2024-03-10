@@ -1,37 +1,26 @@
-# Homework 5: Plugins
+# Homework 6: Plugins
+
+## Getting Ready for Production: Devops, Cloud Computing, Environment Variables, Logging, and Continuous Integration
 
 ## Introduction
+This homework has three new features.
 
-This project focuses on the development of an interactive command-line application that operates continuously, transitioning from a single-execution script to a fully functional application. Through this assignment, you will explore the command pattern, learn how to dynamically load commands using a simple plugin architecture, and understand the appropriate use of exceptions versus conditional statements to manage invalid data inputs. This unit lays the foundational skills for application development, preparing you for the midterm project, which requires a thorough explanation of your program's architecture, design patterns, and functionality.
+1.  GitHub Actions to run your tests on GitHub automatically. It is currently set to trigger for two branches: devops and master.  
 
-## Project Enhancements from Assignment 4
+2.  Environmnent variables and its respective test case for the app.
 
-Incorporate the functionalities discussed in the lecture videos to your previous assignment. This includes transforming your calculator program into an interactive application using the command pattern and REPL (Read, Evaluate, Print, Loop) principles.
+3.  Logging as how the program outputs information to external systems and is important for tracking application usage, security, and development, and also added logging related test cases.
 
-## Completed tasks
+## Project Enhancements from Assignment 5
 
-- **Testing :**
-  - Added test cases for three new commands: menu, calculator and openai.
-  - Added test cases for dynamic plugin menu.
-  - Added test cases for sub menu logic like for calculator and openai - which again has one more menu to navigate.
-  ![alt text](test.png)
+I am resuing the same code from my homework 5 and adding the above mentioned enhancements.
 
-- **Functionality :**
-  - Implementation of command pattern and REPL:
-  ![alt text](repl.png)
-  - Interactive calculator commands (add, subtract, multiply, divide):
-  ![alt text](<calc command.png>)
-  - Interactive openai command (chat.py):
-  ![alt text](<open ai menu.png>)
-  - Interactive menu commands:
-  ![alt text](<menu command.png>)
-  - Successful plugin architecture integration for dynamic command loading:
-  ![alt text](<plugin dynamic menu.png>)
-  
+1. Add a GitHub action to project.
+![alt text](<Screenshot 2024-03-10 at 1.36.45 AM.png>)
 
-## Testing Commands
+2. Add the .env file.
+![alt text](<Screenshot 2024-03-10 at 1.47.56 AM.png>)
 
-- Run all tests with `pytest`.
-- To test a specific file, use `pytest tests/test_main.py`.
-- For linting and coverage, `pytest --pylint --cov` commands can be used separately.
+3. Add logging.
+![alt text](<Screenshot 2024-03-10 at 1.49.04 AM.png>)
 
